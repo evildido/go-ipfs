@@ -18,7 +18,7 @@ import (
 	lockfile "github.com/ipfs/go-ipfs/repo/fsrepo/lock"
 
 	bstore "gx/ipfs/QmTVDM4LCSUMFNQzbDLL9zQwp8usE6QHymFdh3h8vL9v6b/go-ipfs-blockstore"
-	cmds "gx/ipfs/QmabLouZTZwhfALuBcssPvkzhbYGMb4394huT7HY4LQ6d3/go-ipfs-cmds"
+	cmds "gx/ipfs/QmU9RepnA8QW2qtFkYUJYfWrydg3Ez7EkgoHkqt5qZgecy/go-ipfs-cmds"
 	cid "gx/ipfs/QmcZfnkapfECQGcLZaf9B79NRg7cRa9EnZh4LSbkCzwNvY/go-cid"
 	cmdkit "gx/ipfs/QmceUdzxkimdYsgtX733uNgzf1DLHyBKN6ehGSp85ayppM/go-ipfs-cmdkit"
 )

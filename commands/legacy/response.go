@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"sync"
 
-	"gx/ipfs/QmabLouZTZwhfALuBcssPvkzhbYGMb4394huT7HY4LQ6d3/go-ipfs-cmds"
+	"gx/ipfs/QmU9RepnA8QW2qtFkYUJYfWrydg3Ez7EkgoHkqt5qZgecy/go-ipfs-cmds"
 	"gx/ipfs/QmceUdzxkimdYsgtX733uNgzf1DLHyBKN6ehGSp85ayppM/go-ipfs-cmdkit"
 
 	oldcmds "github.com/ipfs/go-ipfs/commands"
